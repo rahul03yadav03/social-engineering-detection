@@ -64,10 +64,9 @@ These patterns are used across the detection scripts to identify potential threa
 
 ---
 
-##  Acknowledgment
+## Acknowledgment
 - All images in the PPT were generated using AI tools.  
-- For coding, only common malicious keywords and file extensions were used to detect attacks; the code itself was written manually.  
-
+- For coding, **AI was used only to research common malicious keywords and file extensions**; the detection code itself was written manually.
 ---
 
 ##  Note
