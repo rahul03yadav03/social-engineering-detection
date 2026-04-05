@@ -1,0 +1,12 @@
+Subject: Microsoft Account Verification Required
+
+Dear User,
+
+Your account has been compromised.
+
+Verify your identity immediately:
+http://micros0ft-login-alert.net
+
+Failure to verify will lock your account.
+
+Microsoft Support

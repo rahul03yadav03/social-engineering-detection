@@ -1,0 +1,11 @@
+Subject: Your Order Confirmation
+
+Dear Rahul,
+
+Thank you for your purchase. Your order has been successfully placed.
+
+You can track your order here:
+https://www.amazon.com/orders
+
+Best regards,
+Amazon Customer Service
