@@ -26,9 +26,9 @@ All attack types are explained in detail in the PPT.
 ---
 
 
-## clone
+## Clone
  - git clone https://github.com/rahul03yadav03/social-engineering-detection
-
+------
 
 ##  Detection (Coding Part)
 Out of all attacks, the following **4 types are implemented for detection using code**:
