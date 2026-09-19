@@ -26,7 +26,7 @@ All attack types are explained in detail in the PPT.
 ---
 
 
-##clone
+## clone
 -- git clone https://github.com/rahul03yadav03/social-engineering-detection
 
 
