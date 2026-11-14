@@ -135,7 +135,7 @@ pip install -r requirements.txt
 ### 3. Run the CLI
 
 ```bash
-python main.py
+python cli/cli.py
 ```
 
 You'll see:
@@ -173,7 +173,8 @@ social-engineering-detection/
 ├── 📄 README.md                 # You are here
 ├── 📦 requirements.txt          # Dependencies (colorama)
 │
-├── 🐍 main.py                   # CLI entry point
+├── cli/
+│   └── cli.py                   # 🐍 CLI entry point
 │
 ├── baiting/
 │   └── baiting.py               # Malicious file detection
